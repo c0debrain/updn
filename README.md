@@ -1,5 +1,7 @@
 ###updn
 
+NOTICE: This repo has moved to [github.com/aaron-lebo/updn](https://github.com/aaron-lebo/updn).
+
 This project started after someone on [Hacker News](http://news.ycombinator.com) suggested implementing a Hacker News/Reddit/Digg style site where story submission and voting required Dogecoin. This is my attempt at something similar.
 
 ####tldr
